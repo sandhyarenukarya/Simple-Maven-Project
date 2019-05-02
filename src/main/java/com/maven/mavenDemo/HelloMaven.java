@@ -8,7 +8,6 @@ public class HelloMaven
 		System.out.println("--------------------");
 		System.out.println("Doing CI with Jenkins from Githib commit");
 		System.out.println("---------------------");
-		System.out.println("Adding extra line");
 		
 	}
 
